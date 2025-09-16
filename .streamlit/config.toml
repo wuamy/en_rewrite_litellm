@@ -1,0 +1,6 @@
+# .streamlit/config.toml
+[theme]
+# Use the light base to ensure your background is light.
+base="light"
+# Explicitly set the text color to black using a HEX code.
+textColor="#000000"
