@@ -23,7 +23,7 @@ api_provider = st.selectbox(
 
 # Dictionary mapping UI selections to the correct LiteLLM model string.
 models = {
-    "Gemini": "gemini/gemini-1.5-flash-latest",
+    "Gemini": "gemini/gemini-2.5-flash",
     "Groq": "groq/llama-3.1-8b-instant",
     "OpenRouter": "openrouter/openai/gpt-4o-mini",
 }
